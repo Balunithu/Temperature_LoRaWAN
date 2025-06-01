@@ -252,9 +252,8 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
+
 ![alt text](<piot Lora dht.jpeg>)
-
-
 # OUTPUT:
 
 ![alt text](<Screenshot 2025-05-24 115235.png>)
