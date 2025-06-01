@@ -1,6 +1,4 @@
 # INTERFACING TEMPERATURE SENSOR WITH IOT CONTROLLER AND UPLOADING DATA TO THE CLOUD VIA LORAWAN
-## NAME: NIKSHITHA G
-## REG NO: 212223110031
 # AIM:
 To upload the temperature sensor value in the Things mate using Arduino controller.
 
