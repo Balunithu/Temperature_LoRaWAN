@@ -1,5 +1,6 @@
 # INTERFACING TEMPERATURE SENSOR WITH IOT CONTROLLER AND UPLOADING DATA TO THE CLOUD VIA LORAWAN
-
+## NAME: NIKSHITHA G
+## REG NO: 212223110031
 # AIM:
 To upload the temperature sensor value in the Things mate using Arduino controller.
 
@@ -253,12 +254,15 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-05-24 at 14 56 26_7d8c4f16](https://github.com/user-attachments/assets/68497e84-d52a-444a-b188-b3f6b62902b0)
-
+![alt text](<piot Lora dht.jpeg>)
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/b915376d-a361-406d-975e-088e3681ec96)
+![alt text](<Screenshot 2025-05-24 115235.png>)
 
+![alt text](<Screenshot 2025-05-24 115054.png>)
+
+![alt text](<Screenshot 2025-05-24 115157.png>)
 # RESULT:
 
 The temperature sensor was successfully interfaced with the IoT controller (Arduino), and the temperature/humidity data was accurately measured, encoded for LoRaWAN, transmitted via a LoRa module to a LoRaWAN gateway, and uploaded to the cloud for real-time distance monitoring through a cloud dashboard.
+
