@@ -252,15 +252,15 @@ void loop() {
 }
 ```
 # CIRCUIT DIAGRAM:
+![image](https://github.com/user-attachments/assets/f6f5a16f-6723-42d7-b9d9-355513a0021d)
 
-![alt text](<piot Lora dht.jpeg>)
 # OUTPUT:
 
-![alt text](<Screenshot 2025-05-24 115235.png>)
+![image](https://github.com/user-attachments/assets/fc1ed932-82bc-4646-9779-d9fd41d3302b)
 
-![alt text](<Screenshot 2025-05-24 115054.png>)
+![image](https://github.com/user-attachments/assets/69a32223-6093-4706-878e-3ed6aa54e7a5)
 
-![alt text](<Screenshot 2025-05-24 115157.png>)
+![image](https://github.com/user-attachments/assets/8be6401b-f120-4abe-b254-0fd9839f0b4d)
 
 
 # RESULT:
